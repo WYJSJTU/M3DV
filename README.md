@@ -10,3 +10,6 @@ EE228 ML Assignment
 * `mylib/runs`存放训练loss,auc记录
 ## 测试运行
 * 在`mylib/test.py`中修改`model_path1`为模型的绝对路径，将测试集放入命名为`test`的文件夹，修改`test_path`为包含此文件夹的目录的绝对路径，之后运行即可。
+## 模型下载
+* https://pan.baidu.com/s/13P-ruM-PrYUlCN2ANvKz3Q
+* 提取码 mxx7
