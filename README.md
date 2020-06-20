@@ -8,8 +8,9 @@ EE228 ML Assignment
 * `mylib/dataloader/data_utilis.py`为数据集增强操作
 * `mylib/checkpoint`存放模型权重
 * `mylib/runs`存放训练loss,auc记录
+## 模型下载
+* 链接：https://pan.baidu.com/s/1vDt6PrhOjkwps1O7BOpMQg 
+* 提取码：rqb0
+* 下载后放入`mylib/checkpoint`
 ## 测试运行
 * 在`mylib/test.py`中修改`model_path1`为模型的绝对路径，将测试集放入命名为`test`的文件夹，修改`test_path`为包含此文件夹的目录的绝对路径，之后运行即可。
-## 模型下载
-* https://pan.baidu.com/s/13P-ruM-PrYUlCN2ANvKz3Q
-* 提取码 mxx7
